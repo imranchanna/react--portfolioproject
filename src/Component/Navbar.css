@@ -1,0 +1,8 @@
+.text{
+    text-align: center;
+}
+.Nav-ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+   }
